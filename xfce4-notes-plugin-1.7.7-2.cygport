@@ -1,4 +1,0 @@
-inherit xfce4
-
-
-PATCH_URI="1.7.7-no-undefined.patch"
