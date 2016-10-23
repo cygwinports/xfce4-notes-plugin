@@ -1,12 +1,10 @@
 inherit xfce4
 
 NAME="xfce4-notes-plugin"
-VERSION=1.7.7
-RELEASE=2
+VERSION=1.8.1
+RELEASE=1
 CATEGORY="Xfce"
 SUMMARY="Xfce4 notes panel plugin"
 DESCRIPTION="The notes plugin provides you a quick way to write down a todo
 list, to paste a piece of code, to leave a note to your friend, or whatever
 else you had like to do with a post'it."
-
-PATCH_URI="1.7.7-no-undefined.patch"
